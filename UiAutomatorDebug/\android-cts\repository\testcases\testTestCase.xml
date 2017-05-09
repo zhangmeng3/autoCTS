@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestPackage 
+appPackageName=""
+name=""
+testType="uiAutomator"
+jarPath=".jar"
+version="1.0">
+<TestCase name="">
+</TestCase>
+</TestPackage>
